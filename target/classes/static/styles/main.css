@@ -1,0 +1,32 @@
+.fancy {
+	font-weight: bold;
+	font-size: 3rem;
+	color: limegreen;
+}
+
+.form {
+	margin: 20px 0;
+}
+
+.error-page {
+	font-size: 6rem;
+	font-weight:bold;
+	color: limegreen;
+}
+
+.error-p {
+	font-size:2rem;
+}
+
+th {
+	color: limegreen;
+}
+
+.custom-active {
+	color: limegreen;
+}
+
+
+
+
+
